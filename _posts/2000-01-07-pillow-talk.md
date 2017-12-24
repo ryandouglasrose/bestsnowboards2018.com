@@ -5,13 +5,13 @@ color: white
 ---
 
 <!-- https://www.amazon.com/Salomon-Snowboards-Pillow-Talk-Snowboard/dp/B07492WR6S/ref=sr_1_1?s=sporting-goods&ie=UTF8&qid=1514049736&sr=1-1&keywords=Salomon+Pillow+Talk -->
-<!-- http://amzn.to/2C2jz5P -->
+<!-- http://amzn.to/2BXFDMD -->
 
 ## A Pro Favorite That Works for Everyone (Women’s):
 
-# [Salomon Pillow Talk](http://amzn.to/2C2jz5P)
+# [Salomon Pillow Talk](http://amzn.to/2BXFDMD)
 
-### Price: [$$](http://amzn.to/2C2jz5P)
+### Price: [$$](http://amzn.to/2BXFDMD)
 
 <img class="circle-img" src="/img/pillow_talk.jpg" height="400em" width="400em" style="margin: 2em 0 2em 0" />
 
@@ -31,6 +31,6 @@ Plus, it’s light enough to switch almost instantly, but you still get a good s
 
 I wouldn’t give this board to a total rookie, but any ladies with a few trips under their belt will be able to control and enjoy the Pillow Talk with ease. It’s a super fun board for any mountain.
 
-<form action="http://amzn.to/2C2jz5P">
+<form action="http://amzn.to/2BXFDMD">
  <center><input type="submit" value="SHOP NOW" class="css3button" style="margin-top: 4em"></center>
 </form>
