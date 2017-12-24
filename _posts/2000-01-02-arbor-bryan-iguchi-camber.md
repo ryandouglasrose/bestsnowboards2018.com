@@ -5,15 +5,15 @@ color: white
 ---
 
 <!-- https://www.amazon.com/Arbor-Bryan-Iguchi-Pro-Camber-Snowboard/dp/B075RCQXHJ/ref=pd_sbs_200_2?_encoding=UTF8&psc=1&refRID=KQ8F0RVVK3HZMGFC9ZBK -->
-<!-- http://amzn.to/2C4U2sC -->
+<!-- http://amzn.to/2l51Mk9 -->
 
 ## The Top Choice All-Mountain Men’s:
 
-# [Arbor Bryan Iguchi Pro Camber](http://amzn.to/2C4U2sC)
+# [Arbor Bryan Iguchi Pro Camber](http://amzn.to/2l51Mk9)
 
-### Price: [$$$](http://amzn.to/2C4U2sC)
+### Price: [$$$](http://amzn.to/2l51Mk9)
 
-<a href="http://amzn.to/2C4U2sC">
+<a href="http://amzn.to/2l51Mk9">
     <img class="circle-img" src="/img/biguchi.jpg" height="400em" width="400em" style="margin: 2em 0 2em 0" />
 </a>
 
@@ -37,6 +37,6 @@ If you’re not familiar with ‘Guch, he’s a free ride pro, and this board is
 
 <div style="clear: both;"></div>
 
-<form action="http://amzn.to/2C4U2sC">
+<form action="http://amzn.to/2l51Mk9">
  <center><input type="submit" value="SHOP NOW" class="css3button" style="margin-top: 4em"></center>
 </form>
